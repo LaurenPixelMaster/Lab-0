@@ -1,0 +1,3 @@
+the difference between commit and push
+git push uploads your local to git hub
+git commit is creating a checkpoint and i can go back to any checkpoint to review the previous version.
